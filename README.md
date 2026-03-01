@@ -1,1 +1,1 @@
-# Zadania-z-Obiektowego-programowania-w-C-
+# Zadania-z-Obiektowego-programowania-w-C++
